@@ -1,7 +1,6 @@
 # UniMotion: A Unified Motion Framework for Simulation, Prediction and Planning
-### [[Paper]](https://arxiv.org/abs/2510.11092)
 
-> [**UniMotion: A Unified Motion Framework for Simulation, Prediction and Planning**](https://arxiv.org/abs/2510.11092)            
+> [**UniMotion: A Unified Motion Framework for Simulation, Prediction and Planning**](https://arxiv.org/abs/2602.00566)            
 > Nan Song, Junzhe Jiang, Jingyu Li, [Xiatian Zhu](https://scholar.google.com/citations?user=ZbA-z1cAAAAJ&hl=en), [Li Zhang](https://lzrobots.github.io)   
 > **NeurIPS 2025**
 
